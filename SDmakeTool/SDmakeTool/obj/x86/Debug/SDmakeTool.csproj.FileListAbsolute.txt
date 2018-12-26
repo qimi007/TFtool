@@ -1,0 +1,11 @@
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\bin\Debug\SDmakeTool.exe
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\bin\Debug\SDmakeTool.pdb
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\obj\x86\Debug\SDmakeTool.Properties.Resources.resources
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\obj\x86\Debug\SDmakeTool.csproj.GenerateResource.Cache
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\obj\x86\Debug\SDmakeTool.exe
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\obj\x86\Debug\SDmakeTool.pdb
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\bin\Debug\zh-CN\SDmakeTool.resources.dll
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\obj\x86\Debug\zh-CN\SDmakeTool.resources.dll
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\obj\x86\Debug\SDmakeTool.formTool.resources
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\obj\x86\Debug\SDmakeTool.formTool.zh-CN.resources
+E:\WorkSpace\C#\SDCMT\SDmakeTool\SDmakeTool\obj\x86\Debug\SDmakeTool.csprojResolveAssemblyReference.cache
